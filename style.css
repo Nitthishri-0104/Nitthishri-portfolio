@@ -1,0 +1,58 @@
+h1{
+font-size:50px;
+color;darkblue;
+margin-left:90px;
+
+}
+.main{ 
+display:flex;
+flex-direction:row;
+}
+.image{
+	margin-left:30px;
+	border-radius:50%;
+	border:5px solid white;
+	margin-top:150px;
+}
+h6{
+	font-size:40px;
+	margin-left:90px;
+	color:darkblue;
+	text-decoration:underline;
+	
+	
+}
+p{
+	font-size:30px;
+	margin-left:90px;
+}
+h2{
+	margin-left:150px;
+	font-size:30px;
+	
+}
+ul{
+	margin-left:150px;
+	font-size:30px;
+}
+a:hover{
+color:brown;
+font-size:50px;
+}
+a:link{
+color:blue;
+font-size:25px;
+}
+a:visited{
+	color:darkblue;
+}
+a{
+	margin-left:110px;
+	font-size:70px;
+	}
+	.heading{
+		text-align:center;
+		font-size:50px;
+		
+	}
+	
